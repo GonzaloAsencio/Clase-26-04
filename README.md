@@ -1,2 +1,2 @@
-# 26Abril
+# 26 de Abril
  Polimorfismo/Herencia/Abstraccion/Encapsulamiento 
